@@ -244,7 +244,7 @@ function arlo_tm_animate_text(){
 	var animateSpan			= jQuery('.arlo_tm_animation_text_word');
 	
 	animateSpan.typed({
-		strings: ["Owner of Inphect Services", "Owner of Inphect Network", "Discord Bot Developer", "Owner of Smiggle Network"],
+		strings: ["Owner of Groover Bot", "Owner of Kubbet Bot", "Co-Owner of Inphect LTD", "Discord Bot Developer"],
 		loop: true,
 		startDelay: 1e3,
 		backDelay: 2e3
